@@ -10,7 +10,7 @@ scikit-image
 tqdm
 
 # packaging
-setuptools==40.6.3
+setuptools>=40.6.3
 wheel==0.32.3
 
 # testing
